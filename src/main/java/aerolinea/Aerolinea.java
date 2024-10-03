@@ -17,10 +17,7 @@ public class Aerolinea {
         return destino.equals("La Paz") && cantidad <= 2;
     }
 
-    // Método que obtiene el día de la semana a partir de la fecha
     private String getDay(int dia, int mes, int gestion) {
-        // Lógica para obtener el día de la semana
-        // Simulación para el ejemplo
         return "Lunes";
     }
 
